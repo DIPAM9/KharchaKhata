@@ -10,7 +10,7 @@ def delete_table():
     table_name = "customers"
     mycursor.execute("DROP TABLE " + table_name)
 
-def creat_table():
+def create_table():
     mycursor.execute("""CREATE TABLE customers (Userid int NOT NULL AUTO_INCREMENT,
      Last_Name VARCHAR(255), 
      First_Name VARCHAR(255),
@@ -29,7 +29,7 @@ def creat_table():
      PRIMARY KEY (id))""")
     mycursor.execute("CREATE TABLE sub_category(expence_type VARCHAR(255))")
 
-creat_table()
+create_table()
 
 
 cnx.close()
