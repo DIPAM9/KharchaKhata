@@ -29,7 +29,7 @@ def create_table():
      PRIMARY KEY (id))""")
     mycursor.execute("CREATE TABLE sub_category(expence_type VARCHAR(255))")
 
-create_table()
+#create_table()
 
 
 cnx.close()
