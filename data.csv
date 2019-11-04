@@ -1,0 +1,137 @@
+expense,debit,credit,category,subcategory ,date,day,time,recurring,frequency,medium,total
+Income,0,102000,Salary,Personal,1/9/2019,sunday,12:00 PM,1,monthly,axis app,102000
+Chips,20,0,Misclleanous,Chips,2/9/2019,monday,11:00 AM,0,,cash,101980
+Icecream and Golgappe,75,0,Food,Snacks,2/9/2019,monday,6:00 PM,0,,cash,101905
+Loan to someone,500,0,Family & Friends,Loan,2/9/2019,monday,7:30 PM,0,,phonepe,101405
+dinner,65,0,Food,Dinner,2/9/2019,monday,8:30 PM,0,,phonepe,101340
+train tickets,940,0,Travel,Personal,2/9/2019,monday,10:30 PM,0,quarterly,phonepe,100400
+train tickets,2300,0,Travel,Personal,2/9/2019,monday,10:30 PM,1,bi-monthly,phonepe,98100
+train tickets,558,0,Travel,Personal,2/9/2019,monday,10:30 PM,1,quarterly,phonepe,97542
+emi,2200,0,Shopping,Emi,2/9/2019,monday,10:30 PM,1,monthly,phonepe,95342
+flat rent,4300,0,Home,Rent,2/9/2019,monday,10:30 PM,1,monthly,phonepe,91042
+loan to someone,20000,0,Family & Friends,Loan,2/9/2019,monday,10:30 PM,0,,phonepe,71042
+breakfast ,55,0,Food,Breakfast ,3/9/2019,tuesday,10:00 AM,1,daily,phonepe,70987
+lunch,100,0,Food,Lunch,3/9/2019,tuesday,3:00 PM,1,daily,phonepe,70887
+Icecream,65,0,Food,Snacks,3/9/2019,tuesday,10:00 PM,0,,cash,70822
+Chips,20,0,Misclleanous,Chips,3/9/2019,tuesday,10:00 PM,0,,cash,70802
+Airtel Recharge,169,0,Bills & Utility,Phone Recharge,4/9/2019,wednesday,6:30 AM,1,monthly,phonepe,70633
+Jio Recharge,149,0,Bills & Utility,Phone Recharge,4/9/2019,wednesday,6:30 AM,1,monthly,phonepe,70484
+breakfast ,20,0,Food,Breakfast ,4/9/2019,wednesday,7:30 AM,1,daily,cash,70464
+Colddrink and snacks,60,0,Food,Snacks,4/9/2019,wednesday,7:30 PM,1,daily,cash,70404
+dinner,106,0,Food,Dinner,4/9/2019,wednesday,10:30 PM,1,daily,phonepe,70298
+Family,1000,0,Family & Friends,Family,5/9/2019,thursday,1:30 PM,0,,phonepe,69298
+RD Deposit,20000,0,Investment,RD,5/9/2019,thursday,7:30 PM,1,monthly,axis app,49298
+loan to someone,320,0,Family & Friends,Loan,5/9/2019,thursday,8:30 PM,0,,cash,48978
+domain renewal,2121,0,Bills & Utility,Website,5/9/2019,thursday,11:30 PM,1,yearly,phonepe,46857
+chai,20,0,Food,Snacks,6/9/2019,friday,5:30 PM,1,daily,cash,46837
+Dinner ,167,0,Food ,Dinner,6/9/2019,friday,10:30 PM,1,daily,phonepe,46670
+breakfast ,90,0,Food,Breakfast ,7/9/2019,saturday,6:30 PM,1,daily,cash,46580
+Commute,75,0,Bills & Utility,Commute,7/9/2019,saturday,7:00 PM,1,daily,cash,46505
+Clothes Wasing,530,0,Bills & Utility,Washing,7/9/2019,saturday,9:00 PM,1,weekly,cash,45975
+dinner,121,0,Food,Dinner,7/9/2019,saturday,9:00 PM,1,daily,phonepe,45854
+Commute,50,0,Bills & Utility,Commute,8/9/2019,sunday,9:00 AM,1,daily,cash,45804
+Chips,20,0,Misclleanous,Chips,8/9/2019,sunday,6:30 PM,1,daily,cash,45784
+Party,2100,0,Misclleanous,Business,8/9/2019,sunday,1:30 PM,1,monthly,gpay,43684
+dinner,83,0,Food,Dinner,8/9/2019,sunday,8:00 PM,1,daily,phonepe,43601
+breakfast ,57,0,Food,Breakfast ,9/9/2019,monday,9:00 AM,1,daily,phonepe,43544
+lunch,56,0,Food,Lunch,9/9/2019,monday,12:00 PM,1,daily,phonepe,43488
+movie ,133,0,Misclleanous,Movie,9/9/2019,monday,3:00 PM,0,,phonepe,43355
+grocery,112,0,Bills & Utility,Grocery,9/9/2019,monday,7:00 PM,1,weekly,phonpe,43243
+Income,0,5866,Salary,Business,11/9/2019,wednesday,10:00 AM,1,monthly,instamojo,49109
+lunch,98,0,Food,Lunch,11/9/2019,wednesday,12:00 PM,1,daily,phonepe,49011
+Running Shoes,656,0,Shopping,Footwear,11/9/2019,wednesday,7:00 PM,0,,phonepe,48355
+dinner,79,0,Food,Dinner,11/9/2019,wednesday,9:30 PM,1,daily,phonepe,48276
+Train Tickets,243,0,Travel,Personal,11/9/2019,wednesday,11:00 PM,1,quarterly,phonepe,48033
+Ticket refund,0,150,Salary,Refund,11/9/2019,wednesday,11:00 PM,0,,phonepe,48183
+Train Tickets,444,0,Travel,Personal,11/9/2019,wednesday,11:00 PM,1,quarterly,phonepe,47739
+Train Tickets,836,0,Travel,Personal,11/9/2019,wednesday,11:00 PM,1,quarterly,phonepe,46903
+Train Tickets,946,0,Travel,Personal,11/9/2019,wednesday,11:00 PM,1,quarterly,phonepe,45957
+Income,0,4400,Salary,Business,12/9/2019,thursday,10:00 AM,1,monthly,instamojo,50357
+Commute,43,0,Bills & Utility,Commute,12/9/2019,thursday,12:00 PM,1,daily,cash,50314
+Lunch,75,0,Food,Lunch,12/9/2019,thursday,1:30 PM,1,daily,phonepe,50239
+Chips,30,0,Misclleanous,Chips,12/9/2019,thursday,2:00 PM,0,,cash,50209
+Fanta/Maggi,55,0,Food,Snacks,12/9/2019,thursday,4:00 PM,1,daily,cash,50154
+dinner,79,0,Food,Dinner,12/9/2019,thursday,9:00 PM,1,daily,phonepe,50075
+Breakfast ,20,0,Food,Breakfast ,13/9/2019,friday,8:00 AM,1,daily,cash,50055
+INcome,0,13197,Salary,Business,13/9/2019,friday,10:00 AM,1,monthly,instamojo,63252
+HIM Salary,0,5000,Salary,Bonus,13/9/2019,friday,8:00 PM,0,,cash,68252
+Dinner,134,0,Food,Dinner,13/9/2019,friday,8:30 PM,1,dinner,phonepe,68118
+Commute ,135,0,Bills & Utility,Commute,14/9/2019,saturday,6:00 AM,1,daily,cash,67983
+Breakfast ,20,0,Food,Breakfast ,14/9/2019,saturday,8:00 AM,1,daily,cash,67963
+Dinner,125,0,Food,Dinner,14/9/2019,saturday,9:00 PM,1,daily,cash,67838
+commute,9,0,Bills & Utility,Commute,15/9/2019,sunday,5:30 PM,1,daily,cash,67829
+Lunch,117,0,Food,Lunch,15/9/2019,sunday,1:30 PM,1,daily,phonepe,67712
+Snacks,65,0,Food,Snacks,15/9/2019,sunday,6:00 PM,1,daily,cash,67647
+To family,3000,0,Family & Friends,Family,15/9/2019,sunday,7:00 PM,1,monthly,phonpe,64647
+dinner,90,0,Food,Dinner,15/9/2019,sunday,9:30 PM,1,daily,phonepe,64557
+Breakfast ,57,0,Food,Breakfast ,16/9/2019,monday,9:30 PM,1,daily,phonepe,64500
+Lunch,80,0,Food,Lunch,16/9/2019,monday,1:30 PM,1,daily,phonepe,64420
+INcome,0,7332,Salary,Business,16/9/2019,monday,10:00 AM,1,monthly,instamojo,71752
+Fixed Deposit,25000,0,Investment,FD,16/9/2019,monday,4:00 PM,1,monthly,axis app,46752
+dinner,98,0,Food,Dinner,16/9/2019,monday,9:30 PM,1,daily,phonepe,46654
+bus tickets,135,0,Travel,Business,17/9/2019,tuesday,6:00 AM,1,monthly,phonepe,46519
+Breakfast ,42,0,Food,Breakfast ,17/9/2019,tuesday,8:30 AM,1,daily,phonepe,46477
+Lunch,122,0,Food,Lunch,17/9/2019,tuesday,11:30 AM,1,daily,phonepe,46355
+Commute,125,0,Bills & Utility,Commute,17/9/2019,tuesday,5:30 PM,1,daily,cash,46230
+Snacks,55,0,Food,Snacks,17/9/2019,tuesday,7:30 PM,1,daily,cash,46175
+Refund ,300,0,Misclleanous,Company,17/9/2019,tuesday,5:00 PM,0,,cash,45875
+Uber,119,0,Travel,Business,17/9/2019,tuesday,11:00 PM,1,weekly,phonepe,45756
+Dinner,97,0,Food,Dinner,17/9/2019,tuesday,11:30 PM,1,daily,phonepe,45659
+Commute,152,0,Travel,Business,18/9/2019,wednesday,6:00 AM,1,weekly,cash,45507
+tickets ,270,0,Travel,Business,18/9/2019,wednesday,7:00 AM,1,weekly,cash,45237
+water,20,0,Food,Breakfast ,18/9/2019,wednesday,7:00 AM,1,daily,cash,45217
+commute,93,0,Bills & Utility,Commute,18/9/2019,wednesday,2:00 PM,1,daily,cash,45124
+Lunch,195,0,Food,Lunch,18/9/2019,wednesday,2:00 PM,1,daily,cash,44929
+Chips,25,0,Misclleanous,Chips,18/9/2019,wednesday,2:00 PM,1,daily,cash,44904
+Party,240,0,Misclleanous,Party,18/9/2019,wednesday,5:00 PM,1,biweekly,phonepe,44664
+grocery,220,0,Bills & Utility,Grocery,18/9/2019,wednesday,5:00 PM,1,biweekly,phonepe,44444
+Breakfast ,42,0,Food,Breakfast ,19/9/2019,thursday,9:00 AM,1,daily,phonepe,44402
+Lunch,42,0,Food,Lunch,19/9/2019,thursday,1:00 PM,1,daily,phonepe,44360
+Breakfast ,84,0,Food,Breakfast ,20/9/2019,friday,8:30 AM,1,daily,phonepe,44276
+bus tickets,135,0,Travel,Business,20/9/2019,friday,7:30 PM,1,weekly,phonepe,44141
+Commute ,83,0,Travel,Business,21/9/2019,saturday,6:00 AM,1,weekly,cash,44058
+uber ,559,0,Travel,Business,21/9/2019,saturday,6:30 AM,1,weekly,phonepe,43499
+Breakfast ,60,0,Food,Breakfast ,21/9/2019,saturday,7:00 PM,1,daily,cash,43439
+lunch,10,0,Food,Lunch,21/9/2019,saturday,2:00 PM,1,daily,cash,43429
+cab ,130,0,Travel,Business,21/9/2019,saturday,5:00 PM,0,,cash,43299
+uber,297,0,Travel,Business,21/9/2019,saturday,5:30 PM,1,weekly,phonepe,43002
+utility tool,180,0,Misclleanous,Business,21/9/2019,saturday,6:00 PM,0,,cash,42822
+Uber,139,0,Family & Friends,Nishu,21/9/2019,saturday,6:30 PM,1,monthly,phonepe,42683
+dinner,82,0,Food,Dinner,21/9/2019,saturday,10:00 PM,1,daily,phonepe,42601
+Icream & Chicken,325,0,Family & Friends,Nishu,21/9/2019,saturday,7:30 PM,1,monthly,cash,42276
+Commute,35,0,Bills & Utility,Commute,22/9/2019,sunday,9:00 AM,1,daily,cash,42241
+Breakfast ,35,0,Food,Breakfast ,22/9/2019,sunday,9:30 AM,1,daily,cash,42206
+Party,1700,0,Misclleanous,Business,22/9/2019,sunday,1:30 PM,1,monthly,gpay,40506
+Grocery,113,0,Bills & Utility,Grocery,22/9/2019,sunday,5:00 PM,1,weekly,cash,40393
+Dinner,113,0,Food,Dinner,22/9/2019,sunday,10:00 PM,1,daily,phonepe,40280
+Commute,37,0,Bills & Utility,Commute,24/9/2019,tuesday,6:00 AM,1,daily,cash,40243
+Breakfast ,40,0,Food,Breakfast ,24/9/2019,tuesday,7:00 AM,1,daily,cash,40203
+cab,150,0,Travel,Business,24/9/2019,tuesday,6:30 AM,1,weekly,cash,40053
+toto,80,0,Travel,Business,24/9/2019,tuesday,11:00 AM,1,weekly,cash,39973
+dinner,16,0,Food,Dinner,24/9/2019,tuesday,10:00 PM,1,daily,cash,39957
+grocery,200,0,Bills & Utility,Grocery,24/9/2019,tuesday,8:00 PM,1,weekly,phonepe,39757
+haircut,50,0,Bills & Utility,Grooming,25/9/2019,wednesday,7:00 PM,1,monthly,cash,39707
+dinner,16,0,Food,Dinner,25/9/2019,wednesday,8:00 PM,1,daily,cash,39691
+Breakfast ,48,0,Food,Breakfast ,26/9/2019,thursday,8:30 AM,1,daily,phonepe,39643
+Lunch,108,0,Food,Lunch,26/9/2019,thursday,1:00 PM,1,daily,phonepe,39535
+Breakfast ,50,0,Food,Breakfast ,27/9/2019,friday,9:30 AM,1,daily,phonepe,39485
+Lunch,260,0,Food,Lunch,27/9/2019,friday,1:00 PM,1,daily,phonepe,39225
+Party,1350,0,Misclleanous,Pot,27/9/2019,friday,1:00 PM,1,bi-monthy,cash,37875
+dinner,119,0,Food,Dinner,27/9/2019,friday,8:30 PM,1,daily,phonpe,37756
+Commute,48,0,Bills & Utility,Commute,28/9/2019,saturday,9:00 AM,1,daily,cash,37708
+Breakfast ,30,0,Food,Breakfast ,28/9/2019,saturday,10:00 AM,1,daily,cash,37678
+party,1273,0,Misclleanous,Business,28/9/2019,saturday,2:30 PM,1,bi-monthy,phonepe,36405
+party,1000,0,Misclleanous,Business,28/9/2019,saturday,2:30 PM,1,bi-monthy,cash,35405
+Paper,10,0,Misclleanous,Chips,28/9/2019,saturday,5:30 PM,0,,cash,35395
+dinner,83,0,Food,Dinner,28/9/2019,saturday,8:30 PM,1,daily,gpay,35312
+Snacks,133,0,Food,Snacks,28/9/2019,saturday,8:30 PM,1,daily,cash,35179
+commute,50,0,Bills & Utility,Commute,29/9/2019,sunday,9:30 PM,1,daily,cash,35129
+Breakfast ,45,0,Food,Breakfast ,29/9/2019,sunday,11:00 AM,1,daily,cash,35084
+Party,1653,0,Misclleanous,Business,29/9/2019,sunday,2:30 PM,1,bi-weekly,gpay,33431
+dinner,112,0,Food,Dinner,29/9/2019,sunday,8:30 PM,1,daily,gpay,33319
+refund,0,1990,Misclleanous,Refund,29/9/2019,sunday,7:00 PM,0,,phonepe,35309
+bank interest,0,139,Misclleanous,Earning,29/9/2019,sunday,6:00 PM,0,,axis app,35448
+Breakfast ,42,0,Food,Breakfast ,30/9/2019,monday,8:30 AM,1,daily,gpay,35406
+Lunch,42,0,Food,Lunch,30/9/2019,monday,1:00 PM,1,daily,gpay,35364
+Commute,30,0,Bills & Utility,Commute,30/9/2019,monday,2:30 PM,1,daily,cash,35334
+cab,270,0,Travel,Personal,30/9/2019,monday,3:30 PM,0,,cash,35064
